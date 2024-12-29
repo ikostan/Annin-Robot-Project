@@ -1,6 +1,6 @@
-#Annin Robot Project
+# Annin Robot Project
 
-##6 axis stepper motor robot and control software
+## 6 axis stepper motor robot and control software
 
 This project includes:
 
@@ -9,6 +9,8 @@ This project includes:
 - Arduino sketch for stepper driver control
 - Software to program and operate robot
 
+All geared stepper motors and drivers are available from  [www.omc-stepperonline.com](https://www.omc-stepperonline.com/?tracking=59c1139e8987b)
+all other misc hardware are off the shelf items available from multiple sources (see the bill of materials file)
 
 [![Alt text](https://img.youtube.com/vi/XkAfb8alqnI/0.jpg)](https://www.youtube.com/watch?v=XkAfb8alqnI)
 
@@ -25,4 +27,6 @@ and design and build bigger and better robot units and share thier designs.
 
 please view license file
 
-questions: chris.annin@gmail.com
+Questions: chris.annin@gmail.com
+#
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
